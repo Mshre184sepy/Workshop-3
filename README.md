@@ -2,8 +2,8 @@
 
 ## Topic: 
 
-### Describe the problem
+### 1. Describe the problem
 
-### Propose a solution
+### 2. Propose a solution
 
-### List the technologies required by the solution
+### 3. List the technologies required by the solution
