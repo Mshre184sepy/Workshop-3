@@ -2,7 +2,7 @@
 
 ## Topic: 
 
-### 1 - Describe the problem
+### Describe the problem
 
 ### Propose a solution
 
