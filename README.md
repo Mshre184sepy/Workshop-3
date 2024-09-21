@@ -10,6 +10,7 @@
 2. The collection and storage of personal information, such as travel itineraries and location data, can leave users vulnerable to data breaches and misuse. Additionally, these apps often lack flexibility, especially when dealing with unexpected changes or limited internet connectivity. Some apps even employ deceptive user interface design to encourage users to upgrade to premium versions, which can be seen as a manipulative tactic. Finally, language barriers and a lack of personalization can make it difficult for users with diverse needs or preferences to fully utilize these apps.
 
 ### 2. Propose a solution
+1. The mobile app would make planning and organizing trips much easier. It would allow users to gather all the important details, like flight information, hotel bookings, and activities, in one place. Users could create day-by-day plans and add everything they need for their trip. The app would also connect to services like booking websites and maps, so users can find and book things without leaving the app.
 
 ### 3. List the technologies required by the solution
 1. Mobile development framework (e.g., React Native, Flutter) to build the app's user interface and functionalities.
