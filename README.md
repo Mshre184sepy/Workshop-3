@@ -12,7 +12,7 @@
 ### 2. Propose a solution
 1. Our mobile app could make planning and organizing trips much easier. It would allow users to gather all the important details, like flight information, hotel bookings, and other activities, in one place. Users would be able to create day-by-day plans and add everything they need for their trip. The app would also connect to services like booking websites and maps, so users can find and book things without leaving the app.
 
-   The app would also have a feature to share trip plans with friends and family. Users could share their itineraries and even allow others to help edit or suggest changes. This would keep everyone organized and 
+   The app would also have a feature to share trip plans with friends and family. Users could share their travel plans and even allow others to help edit or suggest changes. This would keep everyone organized and 
    avoid confusion. The app would send reminders and notifications so that users never miss a detail.
 
 2. In order to keep the collection and storage of personal information safe, we will use end-to-end encryption in transit and at rest to keep important information secured, in case a data breach does happen. In terms of advertisement on the app, the user has the option to opt-in on personalized ads or ad-free experience, without the need of any premium upgrade or subscription. In terms of language barriers and personalization, the app will offer multi-language options to value the users needs around the world.
